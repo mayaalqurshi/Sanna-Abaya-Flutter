@@ -1,6 +1,6 @@
-# project1
+# Sanna Abaya
 
-A new Flutter project.
+A Store for abayas known as Sanna.
 
 ## Getting Started
 
